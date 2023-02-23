@@ -4,6 +4,11 @@ public class Toplama {
         topla (3, 2, 5, -10);
         //v3 techpro calışmaları
         //v4 techpro kodları
+<<<<<<< Updated upstream
+=======
+        //v5 master!!!
+        //stash denemesi...
+>>>>>>> Stashed changes
 
 
     }
