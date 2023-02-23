@@ -8,6 +8,7 @@ public class Toplama {
 =======
         //v5 master!!!
         //stash denemesi...
+    //GitHub'dan sevlilerle
 >>>>>>> Stashed changes
 
 
