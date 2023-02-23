@@ -9,6 +9,7 @@ public class Toplama {
         //v5 master!!!
         //stash denemesi...
     //GitHub'dan sevlilerle
+//v7 kodları...
 >>>>>>> Stashed changes
 
 
